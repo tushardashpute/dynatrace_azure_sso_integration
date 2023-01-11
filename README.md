@@ -23,3 +23,14 @@ Test SSO - to verify whether the configuration works.
 
 
 Configure Azure AD SSO
+
+<img width="1544" alt="image" src="https://user-images.githubusercontent.com/74225291/211816424-72b63a14-f10b-4e0d-9457-2393920c6fdf.png">
+
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/74225291/211819483-53028b3f-bf81-4ac6-a45f-f1062db1b031.png">
+
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/74225291/211819575-6b6271b1-f613-4f69-94d3-b73ce72cf0da.png">
+
+
+
+Azure SAML configuration for Dynatrace
+
