@@ -18,10 +18,18 @@ Steps:
 
 To configure the integration of Dynatrace into Azure AD, you need to add Dynatrace from the gallery to your list of managed SaaS apps.
 
+- Sign in to the Azure portal using either a work or school account, or a personal Microsoft account.
+- On the left navigation pane, select the Azure Active Directory service.
+
 <img width="1550" alt="image" src="https://user-images.githubusercontent.com/74225291/211815104-df956c6b-bdeb-48c8-b915-c2baf3c2d0c8.png">
 
+- Navigate to Enterprise Applications, and then select All Applications.
+- To add new application, select New application.
 
 <img width="1693" alt="image" src="https://user-images.githubusercontent.com/74225291/211815412-0b26a326-dc70-48ca-ae4f-933c6ccb6927.png">
+
+- In the Add from the gallery section, type Dynatrace in the search box.
+- Select Dynatrace from results panel and then add the app. Wait a few seconds while the app is added to your tenant.
 
 <img width="1744" alt="image" src="https://user-images.githubusercontent.com/74225291/211815497-46aba4f1-60e1-403b-becc-c15bb8ddeb8e.png">
 
