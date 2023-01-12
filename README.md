@@ -172,3 +172,11 @@ You will be able to login to dynatrace using username only.
 
 
 - Click on Test this application in Azure portal. This will redirect to Dynatrace Sign on URL where you can initiate the login flow.
+
+
+**References:**
+
+https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/dynatrace-tutorial
+https://www.dynatrace.com/support/help/how-to-use-dynatrace/user-management-and-sso/manage-users-and-groups-with-saml/saml-azure
+https://www.dynatrace.com/support/help/how-to-use-dynatrace/user-management-and-sso/manage-users-and-groups-with-saml/saml-azure#expand--example-search-for-dynatrace-application
+https://aws.amazon.com/blogs/apn/aws-single-sign-on-integration-guide-for-dynatrace/
