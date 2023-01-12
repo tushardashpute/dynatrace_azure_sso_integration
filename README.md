@@ -68,6 +68,20 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 
 On the Set up single sign-on with SAML page, in the SAML Signing Certificate section, find **Federation Metadata XML**. Select Download to download the certificate and save it on your computer.
 
+<img width="825" alt="image" src="https://user-images.githubusercontent.com/74225291/211965656-54a6809f-5aa8-413e-92d5-986caa2a09ab.png">
+
+- In the SAML Signing Certificate section, select the Edit button to open the SAML Signing Certificate dialog box. Complete the following steps:
+
+a. The Signing Option setting is pre-populated. Please review the settings as per your organization.
+
+b. Click Save.
+
+![image](https://user-images.githubusercontent.com/74225291/211966019-e384cb9b-32c8-480b-bfa3-54db490ca7c2.png)
+
+In the Set up Dynatrace section, copy the appropriate URL(s) based on your requirement.
+
+<img width="789" alt="image" src="https://user-images.githubusercontent.com/74225291/211966257-232687ea-a1df-4e6f-aebd-a2e369b253f1.png">
+
 <img width="810" alt="image" src="https://user-images.githubusercontent.com/74225291/211819483-53028b3f-bf81-4ac6-a45f-f1062db1b031.png">
 
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/74225291/211819575-6b6271b1-f613-4f69-94d3-b73ce72cf0da.png">
