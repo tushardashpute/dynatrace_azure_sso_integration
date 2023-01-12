@@ -41,10 +41,10 @@ Configure and test Azure AD SSO with Dynatrace using a test user called Vihan.D.
 To configure and test Azure AD SSO with Dynatrace, complete the following building blocks:
 
 - Configure Azure AD SSO - to enable your users to use this feature.
-- Create an Azure AD test user - to test Azure AD single sign-on with Vihan.
-- Assign the Azure AD test user - to enable Vihan.D to use Azure AD single sign-on.
+- Create an Azure AD test user - to test Azure AD single sign-on with tushar.
+- Assign the Azure AD test user - to enable tushar to use Azure AD single sign-on.
 - Configure Dynatrace SSO - to configure the single sign-on settings on application side.
-- Create Dynatrace test user - to have a counterpart of Vihan.D in Dynatrace that is linked to the Azure AD representation of user.
+- Create Dynatrace test user - to have a counterpart of tushar in Dynatrace that is linked to the Azure AD representation of user.
 - Test SSO - to verify whether the configuration works.
 
 
@@ -85,6 +85,17 @@ In the Set up Dynatrace section, copy the appropriate URL(s) based on your requi
 <img width="810" alt="image" src="https://user-images.githubusercontent.com/74225291/211819483-53028b3f-bf81-4ac6-a45f-f1062db1b031.png">
 
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/74225291/211819575-6b6271b1-f613-4f69-94d3-b73ce72cf0da.png">
+
+**Create an Azure AD test user**
+
+- From the left pane in the Azure portal, select Azure Active Directory, select Users, and then select All users.
+- Select New user at the top of the screen.
+- In the User properties, follow these steps:
+- In the Name field, enter tushar.
+- In the User name field, enter the username@companydomain.extension. For example, tushar@tushar10pute.click
+- Select the Show password check box, and then write down the value that's displayed in the Password box.
+- Click Create.
+
 
 
 Azure SAML configuration for Dynatrace
