@@ -1,4 +1,12 @@
-# dynatrace_azure_sso_integration
+# Dynatrace_azure_sso_integration
+
+Steps:
+======
+1. Add Dynatrace from the gallery to Azure
+2. Configure and test Azure AD SSO for Dynatrace
+  a. Configure Azure AD SSO
+  b. Configure Dynatrace SSO
+  c. Test SSO
 
 Add Dynatrace from the gallery
 
