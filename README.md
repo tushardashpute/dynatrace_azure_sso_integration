@@ -34,7 +34,7 @@ To configure the integration of Dynatrace into Azure AD, you need to add Dynatra
 
 <img width="1744" alt="image" src="https://user-images.githubusercontent.com/74225291/211815497-46aba4f1-60e1-403b-becc-c15bb8ddeb8e.png">
 
-**2. Configure Azure AD SSO**
+**Configure and test Azure AD SSO for Dynatrace**
 
 Configure and test Azure AD SSO with Dynatrace using a test user called Vihan.D. For SSO to work, you need to establish a link relationship between an Azure AD user and the related user in Dynatrace.
 
@@ -48,7 +48,18 @@ To configure and test Azure AD SSO with Dynatrace, complete the following buildi
 - Test SSO - to verify whether the configuration works.
 
 
-Configure Azure AD SSO
+**2. Configure Azure AD SSO**
+
+Follow these steps to enable Azure AD SSO in the Azure portal.
+
+- In the Azure portal on the Dynatrace application integration page, find the Manage section and select single sign-on.
+- On the Select a single sign-on method page, select SAML.
+
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/74225291/211964871-3923ef2e-b3d2-491f-8277-7174d8296e3c.png">
+
+- On the Set up single sign-on with SAML page, click the pencil icon for Basic SAML Configuration to edit the settings.
+
+
 
 <img width="1544" alt="image" src="https://user-images.githubusercontent.com/74225291/211816424-72b63a14-f10b-4e0d-9457-2393920c6fdf.png">
 
