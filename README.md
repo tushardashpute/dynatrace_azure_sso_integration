@@ -55,13 +55,18 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 - In the Azure portal on the Dynatrace application integration page, find the Manage section and select single sign-on.
 - On the Select a single sign-on method page, select SAML.
 
-<img width="921" alt="image" src="https://user-images.githubusercontent.com/74225291/211964871-3923ef2e-b3d2-491f-8277-7174d8296e3c.png">
+<img width="1544" alt="image" src="https://user-images.githubusercontent.com/74225291/211816424-72b63a14-f10b-4e0d-9457-2393920c6fdf.png">
 
 - On the Set up single sign-on with SAML page, click the pencil icon for Basic SAML Configuration to edit the settings.
 
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/74225291/211964871-3923ef2e-b3d2-491f-8277-7174d8296e3c.png">
 
 
-<img width="1544" alt="image" src="https://user-images.githubusercontent.com/74225291/211816424-72b63a14-f10b-4e0d-9457-2393920c6fdf.png">
+- In the Basic SAML Configuration section, the application is pre-configured in IDP initiated mode and the necessary URLs are already pre-populated with Azure. The user needs to save the configuration by clicking the Save button.
+- Click Set additional URLs and complete the following step to configure the application in SP initiated mode:
+- In the Sign-on URL text box, type the URL: https://sso.dynatrace.com/
+
+On the Set up single sign-on with SAML page, in the SAML Signing Certificate section, find **Federation Metadata XML**. Select Download to download the certificate and save it on your computer.
 
 <img width="810" alt="image" src="https://user-images.githubusercontent.com/74225291/211819483-53028b3f-bf81-4ac6-a45f-f1062db1b031.png">
 
