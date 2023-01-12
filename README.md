@@ -87,6 +87,5 @@ In the Set up Dynatrace section, copy the appropriate URL(s) based on your requi
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/74225291/211819575-6b6271b1-f613-4f69-94d3-b73ce72cf0da.png">
 
 
-
 Azure SAML configuration for Dynatrace
 
