@@ -1,17 +1,22 @@
 # Dynatrace_azure_sso_integration
 
+
+**Prerequisites**
+To get started, you need the following items:
+
+An Azure AD subscription. If you don't have a subscription, you can get a free account.
+Dynatrace single sign-on (SSO) enabled subscription.
+
 Steps:
 ======
 1. Add Dynatrace from the gallery to Azure
-2. Configure and test Azure AD SSO for Dynatrace
+2. Configure Azure AD SSO
+3. Configure Dynatrace SSO
+4. Test SSO
 
-    a. Configure Azure AD SSO
-    
-    b. Configure Dynatrace SSO
-    
-    c. Test SSO
+**1. Add Dynatrace from the gallery**
 
-Add Dynatrace from the gallery
+To configure the integration of Dynatrace into Azure AD, you need to add Dynatrace from the gallery to your list of managed SaaS apps.
 
 <img width="1550" alt="image" src="https://user-images.githubusercontent.com/74225291/211815104-df956c6b-bdeb-48c8-b915-c2baf3c2d0c8.png">
 
